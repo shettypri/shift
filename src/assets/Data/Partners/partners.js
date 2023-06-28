@@ -4,7 +4,7 @@ import sabb from "../../Images/Partners/03_Sabb.png"
 import toyota from "../../Images/Partners/04_Toyota.png"
 import hundai from "../../Images/Partners/05_Hyundai.png"
 import kiya from "../../Images/Partners/06_Kiya.png"
-import mercedes  from "../../Images/Partners/07_Mercedes_Benz.png"
+import mercedes from "../../Images/Partners/07_Mercedes_Benz.png"
 import mazda from "../../Images/Partners/08_Mazda.png"
 import gmc from "../../Images/Partners/09_GMC.png"
 import nissan from "../../Images/Partners/10_Nissan.png"
@@ -16,7 +16,7 @@ import peugeot from "../../Images/Partners/15_Peugeot.png"
 import oracle from "../../Images/Partners/16_Oracle.jpg"
 import microsoft from "../../Images/Partners/17_Microsoft.png"
 import aws from "../../Images/Partners/18_AWS.png"
-import cisco  from "../../Images/Partners/19_cisco.jpg"
+import cisco from "../../Images/Partners/19_cisco.jpg"
 import generation from "../../Images/Partners/20_Generation_C.png"
 import raya from "../../Images/Partners/21_Raya.png"
 import afaqy from "../../Images/Partners/22_Afaqy.png"
@@ -39,6 +39,6 @@ import michelin from "../../Images/Partners/38_Michelin.png"
 import hankook from "../../Images/Partners/39_Hankook.png"
 
 
-export const partnerImages=[rajhi,banque,sabb,toyota,hundai,kiya,mercedes,mazda,gmc,nissan,man,
-renault,chevrolet,suzuki,peugeot,oracle,microsoft,aws,cisco,generation,raya,afaqy,payfort,smart,location,value,influence,
-mename,bupa,gulf,fuchs,petromin,transaction,byd,smb,bbaa,alnutlaq,michelin,hankook]
+export const partnerImages = [rajhi, banque, sabb, toyota, hundai, kiya, mercedes, mazda, gmc, nissan, man,
+    renault, chevrolet, suzuki, peugeot, oracle, microsoft, aws, cisco, generation, raya, afaqy, payfort, smart, location, value, influence,
+    mename, bupa, gulf, fuchs, petromin, transaction, byd, smb, bbaa, alnutlaq, michelin, hankook]
